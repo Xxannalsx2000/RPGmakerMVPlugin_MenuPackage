@@ -14,5 +14,6 @@ Website [@ReIris](https://m03271996.wixsite.com/reirisgame)<br>
 | [AltMenuScreen2.js](https://github.com/mr099985/RPGmakerMVPlugin_MenuPackage/blob/master/AltMenuScreen2.js) |Yoji Ojima、神無月サスケ|
 | [AltMenuScreen3.js](https://github.com/mr099985/RPGmakerMVPlugin_MenuPackage/blob/master/AltMenuScreen3.js) |Yoji Ojima、神無月サスケ|
 | [TsumioMenuSystem.js](https://github.com/mr099985/RPGmakerMVPlugin_MenuPackage/blob/master/TsumioMenuSystem.js) |ツミオ|
+| [SimpleMenuLayout.js](https://github.com/mr099985/RPGmakerMVPlugin_MenuPackage/blob/master/SimpleMenuLayout.js) |ツミオ|
 
 [回到頂部](#readme)
