@@ -8,5 +8,8 @@ Twitter [@m03271996](https://twitter.com/m03271996)<br>
 Facebook [@reirisgame](https://www.facebook.com/reirisgame/)<br>
 Website [@ReIris](https://m03271996.wixsite.com/reirisgame)<br>
 * * *
+| 插件名稱               |      作者名稱         | 中文名稱              |
+| --------------------- | --------------------- | --------------------- |
+|                       |                       |                       |
 
 [回到頂部](#readme)
