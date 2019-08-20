@@ -18,5 +18,6 @@ Website [@ReIris](https://m03271996.wixsite.com/reirisgame)<br>
 | [TMSoloMenu.js](https://github.com/mr099985/RPGmakerMVPlugin_MenuPackage/blob/master/TMSoloMenu.js) |tomoaky|
 | [TMRingCommand.js](https://github.com/mr099985/RPGmakerMVPlugin_MenuPackage/blob/master/TMRingCommand.js) |tomoaky|
 | [TMBackButton.js](https://github.com/mr099985/RPGmakerMVPlugin_MenuPackage/blob/master/TMBackButton.js) |tomoaky|
+| [TMMenuLabel.js](https://github.com/mr099985/RPGmakerMVPlugin_MenuPackage/blob/master/TMMenuLabel.js) |tomoaky|
 
 [回到頂部](#readme)
